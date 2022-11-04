@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background-image: url(../images/headerbg.jpg);
+    background-color: black;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -42,13 +42,11 @@ img#chev {
 
 #action {
     display: inline-block;
-    padding: 45px 0;
-    background: rgba(0, 0, 0, 0.5);
     color: white;
     width: 100%;
     position: absolute;
     left: 0;
-    top: 30%;
+    top: 20%;
 }
 
 #action a {
@@ -91,10 +89,10 @@ div.block {
 div.block img {
     float: left;
     margin: 10px;
-}
+    width: 35px;
+    }
 
 img#hero {
-    float: right;
     width: 300px;
     margin: 15px;
 }
@@ -218,18 +216,18 @@ footer a {
     }
     
     header {
-        max-height: 375px;
+        max-height: 600px;
     }
     
     #mobaction {
         display: block;
-        height: 375px;
+        height: 600px;
         background: rgba(0, 0, 0, 0.5);
         color: white;
     }
 
     #mobaction h1 {
-        font-size: 2em;
+        font-size: 1.5em;
         padding: 0 20px 30px;
     }
     
@@ -239,7 +237,7 @@ footer a {
     }
     
     img#hero {
-        width: 200px;
+        width: 240px;
     }
 
     section h2 {
@@ -248,10 +246,6 @@ footer a {
     
     section p {
         font-size: .8em;
-    }
-
-    .block img {
-        width: 35px;
     }
 
     img.asseticons {
@@ -286,7 +280,7 @@ header {
 
 #leftt {
     text-align: left;
-    padding: 20px;
+    padding: 40px 20px;
 }
 
 #mobaction {
@@ -323,10 +317,6 @@ section h2 {
 
 section p {
     font-size: .9em;
-}
-
-.block img {
-    width: 40px;
 }
 
 img.asseticons {
