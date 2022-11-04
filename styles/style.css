@@ -79,7 +79,7 @@ section {
 
 section#about {
     color: #525252;
-    padding: 80px 0 -20px;
+
 }
 
 div.block {
@@ -97,12 +97,6 @@ img#hero {
     margin: 15px;
 }
 
-img#bunnyapp {
-    width: 250px;
-    margin-left: 50%;
-    margin-bottom: -50px;
-    transform: translate(-50%, 0);
-}
 
 section#assets {
     background-color: #142E21;
@@ -216,12 +210,12 @@ footer a {
     }
     
     header {
-        max-height: 600px;
+        max-height: 750px;
     }
     
     #mobaction {
         display: block;
-        height: 600px;
+        height: 750px;
         background: rgba(0, 0, 0, 0.5);
         color: white;
     }
@@ -271,11 +265,6 @@ footer a {
 
 #action {
     display: none;
-}
-
-header {
-    background-size: 100hmax;
-    max-height: 450px;
 }
 
 #leftt {
@@ -354,9 +343,6 @@ img#hero {
     width: 250px;
 }
 
-.responsive-iframe {
-    width: 200px;
-    height: 113px;
-  }
+
 
 }
