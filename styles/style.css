@@ -28,10 +28,7 @@ header a {
 }
 
 #logo {
-    position: absolute;
-    left: 20px;
-    top: 20px;
-    width: 150px;
+    width: 180px;
 }
 
 img#chev {
@@ -45,7 +42,7 @@ img#chev {
     width: 100%;
     position: absolute;
     left: 0;
-    top: 20%;
+    top: 18%;
 }
 
 #action a {
@@ -87,13 +84,13 @@ div.block {
 
 div.block img {
     float: left;
-    margin: 10px;
+    margin: 30px 10px;
     width: 35px;
     }
 
 img#hero {
     width: 300px;
-    margin: 15px;
+    margin: 10px;
 }
 
 
@@ -101,7 +98,7 @@ section#assets {
     background-color: #142E21;
     color: white;
     max-width: none;
-    padding: 80px 30px;
+    padding: 50px 20px;
 }
 
 div.seeall {
@@ -132,11 +129,6 @@ img.asseticons {
     text-align: center;
 }
 
-.responsive-iframe {
-    width: 600px;
-    height: 338px;
-  }
-
 #blog h2 {
     color: rgb(54, 54, 54);
 }
@@ -150,7 +142,7 @@ section#today {
     background-color: #212353;
     color: white;
     max-width: none;
-    padding: 80px 30px;
+    padding: 50px 20px;
     text-align: center;
 }
 
@@ -168,13 +160,6 @@ footer {
 img#flogo {
     width: 150px;
     float: left;
-}
-
-img.social {
-    width: 30px;
-    margin-top: 5px;
-    margin-left: 8px;
-    float: right;
 }
 
 #list {
@@ -206,10 +191,6 @@ footer a {
     
     #action {
         display: none;
-    }
-    
-    header {
-        height: 800px;
     }
     
     #mobaction {
@@ -244,11 +225,6 @@ footer a {
         width: 59px;
     }
 
-    .responsive-iframe {
-        width: 400px;
-        height: 225px;
-      }
-
     footer {
         padding: 20px;
     }    
@@ -282,7 +258,7 @@ footer a {
 }
 
 #mobmark {
-    width: 80px;
+    width: 100px;
     margin: 60px 0 20px;
 }
 
