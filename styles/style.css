@@ -21,7 +21,6 @@ header {
     background-repeat: no-repeat;
     background-position: top;
     text-align: center;
-    height: 100vh;
 }
 
 header a {
@@ -215,7 +214,6 @@ footer a {
     
     #mobaction {
         display: block;
-        height: 750px;
         background: rgba(0, 0, 0, 0.5);
         color: white;
     }
@@ -274,7 +272,6 @@ footer a {
 
 #mobaction {
     display: block;
-    height: 100%;
     background: rgba(0, 0, 0, 0.5);
     color: white;
 }
